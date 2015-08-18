@@ -1,2 +1,2 @@
 select * from emp
-where emp;
+where emp <= 1000;
